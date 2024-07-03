@@ -6,6 +6,6 @@
 > 
 > **POST** /api/create (name, description) - Crie um novo TODO
 > 
-> **DELETE** /api/remove?id={id TODO}** - Exclua um TODO
+> **DELETE** /api/remove?id={id TODO} - Exclua um TODO
 >
 > **PATCH** /api/complete?id={id TODO} - Mude o estado de "completed" de um TODO
